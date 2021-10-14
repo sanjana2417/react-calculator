@@ -1,0 +1,21 @@
+.button {
+    border: 1px solid rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    outline: none;
+    box-shadow: inset -2px -4px 2px rgba(0,0,0,0.2);
+    height: 80px;
+    width: 80px;
+    color: #3498db;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.button:active {
+    transform: translateY(1px);
+    box-shadow: none;
+    color: #81ecec;
+}

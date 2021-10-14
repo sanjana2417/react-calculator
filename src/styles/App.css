@@ -1,0 +1,9 @@
+.Calculator {
+  width: 320px;
+  height: 600px;
+  background-color: #666;
+  border-radius: 10px;
+  -webkit-box-shadow: 10px 10px 49px 0px rgba(0,0,0,0.51);
+  -moz-box-shadow: 10px 10px 49px 0px rgba(0,0,0,0.51);
+  box-shadow: 10px 10px 49px 0px rgba(0,0,0,0.51);
+}

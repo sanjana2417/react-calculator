@@ -1,0 +1,23 @@
+.button-container {
+    height: 400px;
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.button-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 100%;
+}
+
+#bottom-left {
+    border-bottom-left-radius: 10px;
+}
+
+#bottom-right {
+    border-bottom-right-radius: 10px;
+}
